@@ -1,9 +1,9 @@
 # Game_of_Life
-This is a python program using Tkinter which creates a GUI which runs Conway's game of life.
+This is a python program using Tkinter which runs Conway's game of life.
 
 **How it works?**
-- A n x n 2D grid was created, each squares represent a living or dead cell depending on its colour
-- At the start each cells are dead so user must select cells in which he wants to switch to a living state.
+- A 2D grid was created, each squares represent a living or dead cell depending on its colour and state.
+- At the start each cells are dead, user must select cells in which he wants to switch to a living state.
 - Press Enter to run the simulation.
 
 - **Rules**
