@@ -1,5 +1,5 @@
 # Game_of_Life
-This is a python program using Tkinter which runs Conway's game of life.
+This is a python program using Turtle Module which runs Conway's game of life.
 Life is a cellular automaton or a model which simulates the evolution of cells.
 Since it is a zero-player game, the initial state of a cell determines its evolution.
 
